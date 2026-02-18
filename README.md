@@ -1,4 +1,4 @@
-# hello-world
+# hello world!
 This is my first repository on GitHub!
 
 I am currently studying Information Technology, Networking, and Cybersecurity at the University of Cincinnati. 
