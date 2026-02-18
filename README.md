@@ -1,16 +1,9 @@
 # hello-world
 This is my first repository on GitHub!
 
+I am currently studying Information Technology, Networking, and Cybersecurity at the University of Cincinnati. 
 
-I am a Sophomore at the Univeristy of Cincinnati, where I study IT and Cybersecurity!
+Seeking a Co-Op for the Summer of 2026!
 
 
-Checklist
 
-Make sure you completed the following items before you submit the assignment on Canvas:
-
-    Create a repository on GitHub
-    Create a branch on GitHub
-    Make changes to the branch
-    Open a pull request on GitHub
-    Merge your pull request
